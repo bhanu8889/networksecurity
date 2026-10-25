@@ -1,0 +1,6 @@
+nsenv
+.env
+.DS_Store
+mlflow.db
+*.pyc
+__pycache__/
